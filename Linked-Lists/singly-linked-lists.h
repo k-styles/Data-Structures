@@ -113,15 +113,15 @@ bool SinglyLinkedList<T>::rm_head_element(){
 }
 
 //////////////////////////////////////////////////////////////////////////
-int main(){
+/*int main(){
     /* Node<int> node;
     node.elem = 5;
     node.next=NULL;
     node.print(); */
 
-    SinglyLinkedList<int> list;
+   /* SinglyLinkedList<int> list;
     list.add_tail_element(5);
     list.add_tail_element(7);
     list.rm_head_element();
     list.print_list();
-}
+}*/
