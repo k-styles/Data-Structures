@@ -102,7 +102,7 @@ T Stack<T>::peek(){
     if(this->isEmpty()) throw 505;
     else return this->head;
 }
-
+/*
 int main(){
     Stack<int> stack;
     stack.push(4);
@@ -114,4 +114,4 @@ int main(){
     stack.print_stack();
     stack.pop();
     stack.print_stack();
-}
+}*/
