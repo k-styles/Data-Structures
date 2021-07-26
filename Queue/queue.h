@@ -93,7 +93,7 @@ bool Queue<T>::dequeue(){
     this->num--;
     return true;
 }
-
+/*
 int main(){
     Queue<int> queue;
     queue.enqueue(5);
@@ -107,3 +107,4 @@ int main(){
     queue.dequeue();
     queue.print_queue();
 }
+*/
