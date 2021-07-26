@@ -126,14 +126,14 @@ bool DoublyLinkedList<T>::rm_head_element(){
 }
 
 //////////////////////////////////////////////////////////////////////////
-int main(){
+/*int main(){
     /* Node<int> node;
     node.elem = 5;
     node.next=NULL;
     node.print(); */
 
-    DoublyLinkedList<int> list;
+  /*  DoublyLinkedList<int> list;
     list.add_head_element(5);
     list.add_head_element(6);
     list.print_list();
-}
+}*/
