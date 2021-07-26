@@ -181,7 +181,7 @@ class MinHeap{
 
         
 };
-
+/*
 int main(){
     int arr[7] = {1, 2, 6, 0, 9, 14, 3};
     MinHeap<int> heap(arr, 7);
@@ -191,4 +191,4 @@ int main(){
     heap.poll();
     heap.poll();
     heap.print_heap();
-}
+}*/
