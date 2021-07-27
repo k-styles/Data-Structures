@@ -4,4 +4,8 @@ This Repository contains c++ codes for simple data-structures.
 
 ## Libraries used:  
 - stdio.h
-- iostream
+- iostream  
+
+## In Progress:
+- Binary Trees
+- Hash Maps
