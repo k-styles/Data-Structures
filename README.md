@@ -8,4 +8,5 @@ This Repository contains c++ codes for simple data-structures.
 
 ## Currently In Progress:
 - Binary Trees
+- Hash Tables
 - Hash Maps
