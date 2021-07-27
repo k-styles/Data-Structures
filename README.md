@@ -6,6 +6,6 @@ This Repository contains c++ codes for simple data-structures.
 - stdio.h
 - iostream  
 
-## In Progress:
+## Currently in Progress:
 - Binary Trees
 - Hash Maps
