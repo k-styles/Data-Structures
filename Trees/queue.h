@@ -88,7 +88,7 @@ bool Queue<T>::dequeue(){
     if(this->isEmpty()){
         cout << "Queue is empty!";
         throw 505;
-        return false
+        return false;
     }
 
     Queue_node<T> *temp_Queue_node = this->head;
