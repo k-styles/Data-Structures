@@ -7,6 +7,5 @@ This Repository contains c++ codes for some simple data-structures.
 - iostream  
 
 ## Currently In Progress:
-- Binary Trees
 - Hash Tables
 - Hash Maps
