@@ -111,7 +111,7 @@ bool DoublyLinkedList<T>::add_tail_element(T a){
 }
 
 //////////////////////////////////////////////////////////////////////////
-// Remove Methods. rm_tail_element() function would have been a linear time function, so ignoring that in ingly linked lists
+// Remove Methods. rm_tail_element() function would have been a linear time function, so ignoring that in singly linked lists
 template <typename T>
 bool DoublyLinkedList<T>::rm_head_element(){
     Node<T> *temp_node = this->head;
