@@ -1,5 +1,3 @@
-//Name: Kartik Anand
-//Roll no: 1903123
 #include <stdio.h>
 #include <vector>
 #include <iostream>
